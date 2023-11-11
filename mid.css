@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    background-color: rgb(255 161 165);
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(318, 92%, 30%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    margin-left: 200%;
+}
+.navbar a:hover{
+    background-color: hsl(305, 82%, 69%);
+    width: 90%;
+}
+.navbar li{
+    float: left;
+    margin-left: 10%;
+
+}
+
+.boxes{
+    display: flex;
+    
+    
+}
+#whole{
+  background-color: rgb(230, 249, 135);  
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
+.box1{
+    margin-left: 10%;
+}
+.box2{
+    margin-left: 5%;
+}
+.box3{
+    margin-left: 5%;
+}
+.box4{
+    margin-left: 5%;
+}
+
+
+.para{
+    padding-right: 20%;
+    padding-left: 20%;
+    
+}
