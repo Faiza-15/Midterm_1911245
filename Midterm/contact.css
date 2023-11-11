@@ -1,0 +1,49 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(262.42deg 72.9% 14.57%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    margin-left: 50%;
+    
+}
+.navbar a:hover{
+    background-color: hsl(254, 54%, 85%);
+    width: 90%;
+}
+.navbar li{
+    float: left;
+    margin-left: 15%;
+    }
+
+    .third{
+
+        display:flex;
+        margin-top: 10%;
+        font-size: x-large;}
+    
+    
+        .pic2{
+            margin-left: 10%;
+            
+        }
+        
+        .paragraph2{
+            font-family: 'Dancing Script', cursive;
+            margin-left: 5%;
+            text-align: left;
+            font-size: larger;
+        }
+        
+        .pic3{
+            margin-left: 5%;
+        }
